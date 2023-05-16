@@ -39,7 +39,7 @@
   ##
  
 <div align="center"> 
- <a href = "mailto:wagner.kima.pb@compasso.com.br"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+ <a href = "mailto:wagner.lima.pb@compasso.com.br"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/wagnersl7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/WagnerSousaLima" target="_blank"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black%22" target="_blank"></a>
 
